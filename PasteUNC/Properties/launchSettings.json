@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PasteUNC": {
+      "commandName": "Project",
+      "commandLineArgs": "T:\\Wayne\\WTT-25-06-2020\\GnuWin32\\contrib\\wget\\1.11.4\\wget-1.11.4-1-GnuWin32.README"
+    }
+  }
+}

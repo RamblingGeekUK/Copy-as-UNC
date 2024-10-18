@@ -1,4 +1,4 @@
-![Copy UNC](https://github.com/user-attachments/assets/4cfca4d0-634b-4f3c-b3c0-e62e89216e34)
+<img src="https://github.com/user-attachments/assets/4cfca4d0-634b-4f3c-b3c0-e62e89216e34" width="250" height="250">
 
 ### PasteUNC
 

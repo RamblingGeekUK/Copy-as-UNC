@@ -6,7 +6,20 @@
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
+    <PackageIcon>Copy UNC.png</PackageIcon>
+    <ApplicationIcon>copy_unc_tEC_icon.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="copy_unc_tEC_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\wtt\OneDrive\Desktop\Copy UNC.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="System.Management" Version="8.0.0" />

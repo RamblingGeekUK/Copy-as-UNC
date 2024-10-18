@@ -1,4 +1,4 @@
-#PasteUNC
+### PasteUNC
 
 When browsing a mapped network drive, it can be frustraing when you want the UNC path for what ever reason, you have to build the path manually, this allows
 you to right click a file and copy the path, when you paste it will paste the UNC path, see video below for example:-

@@ -1,4 +1,4 @@
-[Copy UNC](https://github.com/user-attachments/assets/4802ae53-df85-434c-9c44-787344a5248c) ### PasteUNC
+![Copy UNC](https://github.com/user-attachments/assets/4802ae53-df85-434c-9c44-787344a5248c =250x) ### PasteUNC
 
 When browsing a mapped network drive, it can be frustrating when you want the UNC path for whatever reason, you have to build the path manually, this allows
 you to right-click a file and copy the path, when you paste it will paste the UNC path, see the video below for example:-

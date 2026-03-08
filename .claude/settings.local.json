@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)",
+      "Bash(dumpbin:*)",
+      "Bash(powershell:*)",
+      "Bash(grep:*)",
+      "Bash(dotnet build:*)",
+      "Read(//c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/**)",
+      "Read(//c/Program Files/Microsoft Visual Studio/2022/Enterprise/MSBuild/Current/Bin/**)",
+      "Read(//c/Program Files/Microsoft Visual Studio/2022/Professional/MSBuild/Current/Bin/**)",
+      "Read(//c/Program Files/Microsoft Visual Studio/**)",
+      "Bash(\"$MSBUILD\":*)",
+      "Bash(cmd.exe /c \"\"\"C:\\\\Program Files\\\\Microsoft Visual Studio\\\\18\\\\Community\\\\MSBuild\\\\Current\\\\Bin\\\\MSBuild.exe\"\" \"\"X:\\\\Dev\\\\Microsoft\\\\PowerToys\\\\src\\\\settings-ui\\\\Settings.UI.Library\\\\Settings.UI.Library.csproj\"\" /p:Configuration=Debug /p:Platform=x64 /m /v:minimal /nologo > X:\\\\Dev\\\\build_library.log 2>&1\")",
+      "Read(//x/Dev/**)",
+      "Bash(powershell.exe:*)"
+    ]
+  }
+}
